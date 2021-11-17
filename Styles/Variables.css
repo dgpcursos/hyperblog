@@ -21,3 +21,6 @@
     color: var(--main-txt-color);
     padding: var(--main-padding);
 }
+header{
+    background-color: lightcoral;
+}
